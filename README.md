@@ -1,7 +1,7 @@
 # Database---project-2
 Cho cấu trúc CSDL như sau:
 TRUONG(MATR, TENTR, DCHITR)
-Mô tả: Mỗi trường học có một Mã số (MATR) duy nhất để nhận biết, có tên trường (TENTR) và địa chỉ (DIACHITR).
+  Mô tả: Mỗi trường học có một Mã số (MATR) duy nhất để nhận biết, có tên trường (TENTR) và địa chỉ (DIACHITR).
 HS(MAHS, HO, TEN, CCCD, NTNS, DCHI_HS)
 Mô tả: Mỗi học sinh có một mã số duy nhất (MAHS) để nhận biết, họ tên (HO, TEN), số CCCD nếu đến tuổi cấp CCCD, được sinh vào một ngày (NTNS) và cư trú tại một địa chỉ (DCHI). Số CCCD luôn duy nhất nếu có. 
 HOC(MATR, MAHS, NAMHOC, DIEMTB, XEPLOAI, KQUA)
