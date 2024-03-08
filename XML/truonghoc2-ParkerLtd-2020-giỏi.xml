@@ -1,0 +1,3013 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<student>
+		<name>Williamson Tonya</name>
+		<birthdate>2003-05-02</birthdate>
+		<average_score>8.23</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Anderson Kristin</name>
+		<birthdate>1999-10-01</birthdate>
+		<average_score>8.09</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Holmes Tonya</name>
+		<birthdate>2004-10-17</birthdate>
+		<average_score>8.35</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Baker Janet</name>
+		<birthdate>2000-01-24</birthdate>
+		<average_score>8.14</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Lopez Elijah</name>
+		<birthdate>1997-10-28</birthdate>
+		<average_score>8.22</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Daniels Brandon</name>
+		<birthdate>2003-10-11</birthdate>
+		<average_score>8.43</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Larson Andrea</name>
+		<birthdate>2000-12-03</birthdate>
+		<average_score>8.86</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Quinn Brenda</name>
+		<birthdate>2004-02-13</birthdate>
+		<average_score>8.2</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Wiley Jose</name>
+		<birthdate>2003-09-20</birthdate>
+		<average_score>8.78</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Vaughn Carl</name>
+		<birthdate>2004-04-13</birthdate>
+		<average_score>8.75</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Porter Natalie</name>
+		<birthdate>2002-10-22</birthdate>
+		<average_score>8.72</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Bailey Tyler</name>
+		<birthdate>2000-10-18</birthdate>
+		<average_score>8.78</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Horne Caitlin</name>
+		<birthdate>1999-10-28</birthdate>
+		<average_score>8.24</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Marks Jason</name>
+		<birthdate>2002-01-09</birthdate>
+		<average_score>8.38</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Parrish Alan</name>
+		<birthdate>1998-09-23</birthdate>
+		<average_score>8.63</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Green Roberto</name>
+		<birthdate>2000-11-17</birthdate>
+		<average_score>8.06</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Campbell Lisa</name>
+		<birthdate>2003-05-19</birthdate>
+		<average_score>8.91</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Warren Caitlyn</name>
+		<birthdate>2004-09-28</birthdate>
+		<average_score>8.13</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Ramirez Christine</name>
+		<birthdate>2004-12-19</birthdate>
+		<average_score>8.02</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Drake Sandra</name>
+		<birthdate>2002-04-20</birthdate>
+		<average_score>8.03</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Wheeler Cynthia</name>
+		<birthdate>2005-03-18</birthdate>
+		<average_score>8.75</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Medina Nancy</name>
+		<birthdate>2003-03-17</birthdate>
+		<average_score>8.46</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Landry Elizabeth</name>
+		<birthdate>2001-04-25</birthdate>
+		<average_score>8.1</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Kelley Sandra</name>
+		<birthdate>2000-01-13</birthdate>
+		<average_score>8.69</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Lawrence Austin</name>
+		<birthdate>2004-09-28</birthdate>
+		<average_score>8.17</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Gibbs John</name>
+		<birthdate>1999-02-27</birthdate>
+		<average_score>8.64</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Hicks Michael</name>
+		<birthdate>2002-02-23</birthdate>
+		<average_score>8.18</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Jordan Beth</name>
+		<birthdate>2002-12-26</birthdate>
+		<average_score>8.38</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Duncan Jennifer</name>
+		<birthdate>2004-05-21</birthdate>
+		<average_score>8.21</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Simon Brenda</name>
+		<birthdate>1997-09-14</birthdate>
+		<average_score>8.87</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Rose Daniel</name>
+		<birthdate>2004-06-25</birthdate>
+		<average_score>8.04</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Walls Jamie</name>
+		<birthdate>2003-06-13</birthdate>
+		<average_score>8.84</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Schultz Robert</name>
+		<birthdate>2000-01-12</birthdate>
+		<average_score>8.22</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Powell Jack</name>
+		<birthdate>2001-01-23</birthdate>
+		<average_score>8.1</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Cook Carlos</name>
+		<birthdate>2002-10-27</birthdate>
+		<average_score>8.23</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Ross Theresa</name>
+		<birthdate>2005-04-19</birthdate>
+		<average_score>8.23</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Pham Tracy</name>
+		<birthdate>1998-10-28</birthdate>
+		<average_score>8.52</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Sullivan Troy</name>
+		<birthdate>2004-02-10</birthdate>
+		<average_score>8.92</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Davis Lucas</name>
+		<birthdate>2001-09-18</birthdate>
+		<average_score>8.76</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Lopez Kenneth</name>
+		<birthdate>1998-03-31</birthdate>
+		<average_score>8.3</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Reynolds Maria</name>
+		<birthdate>2004-11-02</birthdate>
+		<average_score>8.45</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Walters Jason</name>
+		<birthdate>2004-05-03</birthdate>
+		<average_score>8.31</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Wood Madison</name>
+		<birthdate>2003-03-29</birthdate>
+		<average_score>8.26</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Stephens Tyler</name>
+		<birthdate>2002-02-04</birthdate>
+		<average_score>8.22</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Buckley Kevin</name>
+		<birthdate>2000-03-21</birthdate>
+		<average_score>8.52</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Branch Rhonda</name>
+		<birthdate>1999-11-17</birthdate>
+		<average_score>8.27</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Swanson Kimberly</name>
+		<birthdate>2004-04-12</birthdate>
+		<average_score>8.56</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Allen Thomas</name>
+		<birthdate>2003-01-10</birthdate>
+		<average_score>8.01</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Martin Karen</name>
+		<birthdate>2001-12-19</birthdate>
+		<average_score>8.38</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Holt Ryan</name>
+		<birthdate>2002-02-12</birthdate>
+		<average_score>8.35</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Wilson Kelly</name>
+		<birthdate>2001-01-24</birthdate>
+		<average_score>8.65</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Williams Colin</name>
+		<birthdate>1997-10-19</birthdate>
+		<average_score>8.04</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Roberts Erin</name>
+		<birthdate>2000-10-11</birthdate>
+		<average_score>8.5</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Smith Jason</name>
+		<birthdate>2001-02-05</birthdate>
+		<average_score>8.19</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Jordan Thomas</name>
+		<birthdate>2003-02-05</birthdate>
+		<average_score>8.69</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Gallagher Lisa</name>
+		<birthdate>2004-05-12</birthdate>
+		<average_score>8.25</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Warren Mandy</name>
+		<birthdate>1999-11-17</birthdate>
+		<average_score>8.25</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Ayala Jennifer</name>
+		<birthdate>2002-09-30</birthdate>
+		<average_score>8.18</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Allen Megan</name>
+		<birthdate>2002-09-04</birthdate>
+		<average_score>8.22</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Skinner Bethany</name>
+		<birthdate>2003-04-07</birthdate>
+		<average_score>8.07</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Manning Barry</name>
+		<birthdate>2004-02-05</birthdate>
+		<average_score>8.54</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Johnson Suzanne</name>
+		<birthdate>2002-09-09</birthdate>
+		<average_score>8.71</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Hernandez Brian</name>
+		<birthdate>1998-02-17</birthdate>
+		<average_score>8.74</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Hancock Carolyn</name>
+		<birthdate>1997-09-07</birthdate>
+		<average_score>8.38</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Barber Samantha</name>
+		<birthdate>2001-12-20</birthdate>
+		<average_score>8.21</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Cooley Jessica</name>
+		<birthdate>2000-01-21</birthdate>
+		<average_score>8.03</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Ramos Tabitha</name>
+		<birthdate>2004-03-29</birthdate>
+		<average_score>8.84</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Miller Brandon</name>
+		<birthdate>2003-12-28</birthdate>
+		<average_score>8.85</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Meza Michelle</name>
+		<birthdate>2003-08-29</birthdate>
+		<average_score>8.59</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Moore Nicole</name>
+		<birthdate>1999-11-19</birthdate>
+		<average_score>8.45</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Wiley Carolyn</name>
+		<birthdate>2001-12-14</birthdate>
+		<average_score>8.72</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Thompson David</name>
+		<birthdate>2000-07-27</birthdate>
+		<average_score>8.11</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Rodriguez Michael</name>
+		<birthdate>1997-11-17</birthdate>
+		<average_score>8.79</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Wyatt Matthew</name>
+		<birthdate>1999-03-22</birthdate>
+		<average_score>8.92</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Rodriguez Brian</name>
+		<birthdate>2003-04-28</birthdate>
+		<average_score>8.85</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Moore Adam</name>
+		<birthdate>1998-12-09</birthdate>
+		<average_score>8.27</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Rivera Thomas</name>
+		<birthdate>2003-01-16</birthdate>
+		<average_score>8.98</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Graham Julie</name>
+		<birthdate>2002-12-16</birthdate>
+		<average_score>8.89</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Frazier John</name>
+		<birthdate>2002-05-10</birthdate>
+		<average_score>8.0</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Williamson Jennifer</name>
+		<birthdate>1998-08-12</birthdate>
+		<average_score>8.23</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Wilson Eric</name>
+		<birthdate>2002-05-19</birthdate>
+		<average_score>8.0</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Cowan Rebecca</name>
+		<birthdate>1998-09-29</birthdate>
+		<average_score>8.8</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Vance Latoya</name>
+		<birthdate>2004-01-12</birthdate>
+		<average_score>8.89</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Ruiz Ryan</name>
+		<birthdate>1998-05-15</birthdate>
+		<average_score>8.0</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Foster Peter</name>
+		<birthdate>2002-04-05</birthdate>
+		<average_score>8.7</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Allen David</name>
+		<birthdate>1998-10-24</birthdate>
+		<average_score>8.88</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Smith James</name>
+		<birthdate>1998-04-10</birthdate>
+		<average_score>8.42</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Anderson Michael</name>
+		<birthdate>2001-10-11</birthdate>
+		<average_score>8.92</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Wells Tyler</name>
+		<birthdate>2001-07-04</birthdate>
+		<average_score>8.71</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Bates Sean</name>
+		<birthdate>2005-04-21</birthdate>
+		<average_score>8.02</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Keller James</name>
+		<birthdate>2003-10-04</birthdate>
+		<average_score>8.66</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Wilson William</name>
+		<birthdate>2000-01-04</birthdate>
+		<average_score>8.88</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>York Whitney</name>
+		<birthdate>1997-09-15</birthdate>
+		<average_score>8.31</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Rice Stanley</name>
+		<birthdate>1998-03-08</birthdate>
+		<average_score>8.46</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Martinez Jamie</name>
+		<birthdate>2002-11-17</birthdate>
+		<average_score>8.59</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>White Scott</name>
+		<birthdate>2002-11-10</birthdate>
+		<average_score>8.96</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Johnson Justin</name>
+		<birthdate>1998-06-11</birthdate>
+		<average_score>8.81</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Weaver James</name>
+		<birthdate>2000-06-10</birthdate>
+		<average_score>8.91</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Brooks Scott</name>
+		<birthdate>1999-01-30</birthdate>
+		<average_score>8.84</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Martinez Brenda</name>
+		<birthdate>2000-07-21</birthdate>
+		<average_score>8.71</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Summers Bradley</name>
+		<birthdate>2002-04-28</birthdate>
+		<average_score>8.07</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Klein Lisa</name>
+		<birthdate>1998-11-17</birthdate>
+		<average_score>8.16</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Bradley David</name>
+		<birthdate>2004-01-15</birthdate>
+		<average_score>8.36</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Hurley Rebecca</name>
+		<birthdate>2001-07-23</birthdate>
+		<average_score>8.56</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Holland Shelia</name>
+		<birthdate>2002-06-21</birthdate>
+		<average_score>8.59</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Kerr Connie</name>
+		<birthdate>1998-09-14</birthdate>
+		<average_score>8.96</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Mitchell Rachel</name>
+		<birthdate>2002-02-02</birthdate>
+		<average_score>8.7</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Jones Paul</name>
+		<birthdate>2001-04-04</birthdate>
+		<average_score>8.35</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Williams Jeremy</name>
+		<birthdate>2003-05-25</birthdate>
+		<average_score>8.41</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Davis George</name>
+		<birthdate>2002-02-24</birthdate>
+		<average_score>8.18</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Boyd Brian</name>
+		<birthdate>2001-01-20</birthdate>
+		<average_score>8.42</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Harper Nicole</name>
+		<birthdate>1998-08-07</birthdate>
+		<average_score>8.43</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Wright David</name>
+		<birthdate>1998-02-26</birthdate>
+		<average_score>8.49</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Patel Cassandra</name>
+		<birthdate>2001-01-01</birthdate>
+		<average_score>8.7</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Gonzalez Daniel</name>
+		<birthdate>2000-06-11</birthdate>
+		<average_score>8.89</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Brown Mark</name>
+		<birthdate>2000-05-04</birthdate>
+		<average_score>8.04</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Murphy Ronald</name>
+		<birthdate>2003-02-07</birthdate>
+		<average_score>8.07</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Hanna Amanda</name>
+		<birthdate>2001-05-20</birthdate>
+		<average_score>8.99</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Cabrera Debbie</name>
+		<birthdate>2004-03-21</birthdate>
+		<average_score>8.08</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Romero Angela</name>
+		<birthdate>2001-11-11</birthdate>
+		<average_score>8.27</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Farrell Valerie</name>
+		<birthdate>2004-11-10</birthdate>
+		<average_score>8.73</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Snyder William</name>
+		<birthdate>1998-01-05</birthdate>
+		<average_score>8.78</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Rivera Michael</name>
+		<birthdate>2004-04-16</birthdate>
+		<average_score>8.25</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Todd Stephanie</name>
+		<birthdate>1998-07-31</birthdate>
+		<average_score>8.86</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Terrell Chad</name>
+		<birthdate>1998-02-12</birthdate>
+		<average_score>8.03</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Johnson Christopher</name>
+		<birthdate>2002-06-08</birthdate>
+		<average_score>8.6</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Love Philip</name>
+		<birthdate>2004-02-11</birthdate>
+		<average_score>8.13</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Cunningham Teresa</name>
+		<birthdate>2004-08-01</birthdate>
+		<average_score>8.3</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Watkins Veronica</name>
+		<birthdate>2003-01-20</birthdate>
+		<average_score>8.14</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>White Diana</name>
+		<birthdate>1998-04-03</birthdate>
+		<average_score>8.0</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Duffy Michael</name>
+		<birthdate>2005-05-07</birthdate>
+		<average_score>8.97</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Jensen John</name>
+		<birthdate>2004-01-31</birthdate>
+		<average_score>8.85</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Cruz Stephanie</name>
+		<birthdate>1998-06-28</birthdate>
+		<average_score>8.3</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Sanchez Matthew</name>
+		<birthdate>1997-07-14</birthdate>
+		<average_score>8.6</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Lewis David</name>
+		<birthdate>2002-05-02</birthdate>
+		<average_score>8.5</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Vincent Karen</name>
+		<birthdate>2004-01-12</birthdate>
+		<average_score>8.97</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Bautista Joshua</name>
+		<birthdate>2005-02-11</birthdate>
+		<average_score>8.21</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Ramos Tyler</name>
+		<birthdate>2002-09-18</birthdate>
+		<average_score>8.18</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Jones Vincent</name>
+		<birthdate>1997-12-15</birthdate>
+		<average_score>8.62</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Perez Andrew</name>
+		<birthdate>1997-12-31</birthdate>
+		<average_score>8.6</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Goodman Amanda</name>
+		<birthdate>2003-05-09</birthdate>
+		<average_score>8.81</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Long Sarah</name>
+		<birthdate>2005-04-07</birthdate>
+		<average_score>8.79</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Johnson Tiffany</name>
+		<birthdate>2002-04-24</birthdate>
+		<average_score>8.21</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Jarvis Kathryn</name>
+		<birthdate>2002-03-29</birthdate>
+		<average_score>8.86</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Price Joseph</name>
+		<birthdate>2004-07-08</birthdate>
+		<average_score>8.12</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Henry Bryan</name>
+		<birthdate>1999-03-27</birthdate>
+		<average_score>8.94</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Thornton Daniel</name>
+		<birthdate>2003-04-03</birthdate>
+		<average_score>8.03</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Wallace Frederick</name>
+		<birthdate>1999-01-12</birthdate>
+		<average_score>8.97</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Cox Travis</name>
+		<birthdate>1999-10-12</birthdate>
+		<average_score>8.51</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Smith Christopher</name>
+		<birthdate>2000-11-05</birthdate>
+		<average_score>8.49</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Solomon Taylor</name>
+		<birthdate>2003-09-20</birthdate>
+		<average_score>8.43</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Koch Dylan</name>
+		<birthdate>1998-11-24</birthdate>
+		<average_score>8.03</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Ball Matthew</name>
+		<birthdate>2003-04-12</birthdate>
+		<average_score>8.79</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Jenkins Patrick</name>
+		<birthdate>2003-11-06</birthdate>
+		<average_score>8.9</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Murray Claudia</name>
+		<birthdate>2003-06-22</birthdate>
+		<average_score>8.53</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Petty Dennis</name>
+		<birthdate>2005-03-29</birthdate>
+		<average_score>8.62</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Luna Anthony</name>
+		<birthdate>2001-08-13</birthdate>
+		<average_score>8.0</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Mclaughlin Renee</name>
+		<birthdate>2002-07-16</birthdate>
+		<average_score>8.54</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Hughes Nicole</name>
+		<birthdate>2002-06-29</birthdate>
+		<average_score>8.8</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Myers Austin</name>
+		<birthdate>2004-12-28</birthdate>
+		<average_score>8.68</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Gates Tony</name>
+		<birthdate>2001-04-11</birthdate>
+		<average_score>8.18</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Preston Tammie</name>
+		<birthdate>2004-11-14</birthdate>
+		<average_score>8.5</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Byrd Maria</name>
+		<birthdate>2002-10-28</birthdate>
+		<average_score>8.73</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Burke Edward</name>
+		<birthdate>2004-07-03</birthdate>
+		<average_score>8.31</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Young Morgan</name>
+		<birthdate>2000-09-02</birthdate>
+		<average_score>8.01</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Allen Stephen</name>
+		<birthdate>2000-01-31</birthdate>
+		<average_score>8.2</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Mendez Robert</name>
+		<birthdate>1999-06-13</birthdate>
+		<average_score>8.38</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Stevenson Hannah</name>
+		<birthdate>2000-12-31</birthdate>
+		<average_score>8.84</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Young Adam</name>
+		<birthdate>1998-08-07</birthdate>
+		<average_score>8.46</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Rivera Michael</name>
+		<birthdate>2002-11-25</birthdate>
+		<average_score>8.92</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Casey Victoria</name>
+		<birthdate>2002-10-13</birthdate>
+		<average_score>8.54</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Cruz Andrew</name>
+		<birthdate>2001-08-05</birthdate>
+		<average_score>8.64</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Dixon Colleen</name>
+		<birthdate>2003-11-26</birthdate>
+		<average_score>8.22</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Rogers Michael</name>
+		<birthdate>2004-12-20</birthdate>
+		<average_score>8.59</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Blankenship Dominique</name>
+		<birthdate>2002-04-26</birthdate>
+		<average_score>8.59</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Meyers Gregory</name>
+		<birthdate>2001-06-20</birthdate>
+		<average_score>8.36</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Miller Anthony</name>
+		<birthdate>2000-08-02</birthdate>
+		<average_score>8.86</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Arroyo Tammy</name>
+		<birthdate>1998-01-17</birthdate>
+		<average_score>8.62</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Wilson Candice</name>
+		<birthdate>2000-10-06</birthdate>
+		<average_score>8.79</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Wells Kirk</name>
+		<birthdate>2001-05-08</birthdate>
+		<average_score>8.04</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Garrett Erica</name>
+		<birthdate>1999-08-20</birthdate>
+		<average_score>8.42</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Lee Joshua</name>
+		<birthdate>2005-04-30</birthdate>
+		<average_score>8.48</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Goodman Matthew</name>
+		<birthdate>2002-07-18</birthdate>
+		<average_score>8.33</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Holder Samantha</name>
+		<birthdate>1999-01-15</birthdate>
+		<average_score>8.26</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Becker Kenneth</name>
+		<birthdate>2002-06-25</birthdate>
+		<average_score>8.89</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Rosario Tami</name>
+		<birthdate>2003-10-31</birthdate>
+		<average_score>8.21</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Parrish Jeffery</name>
+		<birthdate>2002-10-11</birthdate>
+		<average_score>8.96</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Kelly Angelica</name>
+		<birthdate>2000-06-22</birthdate>
+		<average_score>8.17</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Lopez Deborah</name>
+		<birthdate>2001-02-02</birthdate>
+		<average_score>8.91</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Johnson Krystal</name>
+		<birthdate>2005-03-09</birthdate>
+		<average_score>8.9</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Fitzgerald Paul</name>
+		<birthdate>1999-10-27</birthdate>
+		<average_score>8.02</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Sosa Aaron</name>
+		<birthdate>1999-08-17</birthdate>
+		<average_score>8.0</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Lyons Christina</name>
+		<birthdate>1998-07-04</birthdate>
+		<average_score>8.08</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Tapia Ashley</name>
+		<birthdate>1999-10-08</birthdate>
+		<average_score>8.75</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Evans Joseph</name>
+		<birthdate>2004-04-30</birthdate>
+		<average_score>8.49</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Holder Felicia</name>
+		<birthdate>1999-06-26</birthdate>
+		<average_score>8.6</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Kelly Paul</name>
+		<birthdate>2000-06-01</birthdate>
+		<average_score>8.96</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Horton Theresa</name>
+		<birthdate>1999-12-25</birthdate>
+		<average_score>8.43</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Meyer John</name>
+		<birthdate>1998-11-09</birthdate>
+		<average_score>8.27</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Thomas Kim</name>
+		<birthdate>2003-05-02</birthdate>
+		<average_score>8.04</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Carson Alexandria</name>
+		<birthdate>1998-09-16</birthdate>
+		<average_score>8.93</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Obrien Michael</name>
+		<birthdate>1997-10-11</birthdate>
+		<average_score>8.33</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Mcbride Johnny</name>
+		<birthdate>2003-02-27</birthdate>
+		<average_score>8.09</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Martin Perry</name>
+		<birthdate>2000-02-16</birthdate>
+		<average_score>8.64</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Kelly Robert</name>
+		<birthdate>1997-08-01</birthdate>
+		<average_score>8.99</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Ashley Danny</name>
+		<birthdate>1998-06-04</birthdate>
+		<average_score>8.83</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Bartlett Brandon</name>
+		<birthdate>1998-10-05</birthdate>
+		<average_score>8.54</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Lopez Carrie</name>
+		<birthdate>2004-06-25</birthdate>
+		<average_score>8.45</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Lara Carolyn</name>
+		<birthdate>2003-05-06</birthdate>
+		<average_score>8.43</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Cooper Erika</name>
+		<birthdate>2004-05-02</birthdate>
+		<average_score>8.78</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Turner Michael</name>
+		<birthdate>2000-12-30</birthdate>
+		<average_score>8.14</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>White Madeline</name>
+		<birthdate>1998-08-30</birthdate>
+		<average_score>8.67</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Griffith Natalie</name>
+		<birthdate>2001-06-04</birthdate>
+		<average_score>8.96</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Allen Christian</name>
+		<birthdate>2000-03-18</birthdate>
+		<average_score>8.73</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Brown Parker</name>
+		<birthdate>2004-03-29</birthdate>
+		<average_score>8.64</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Baxter Jill</name>
+		<birthdate>2002-06-01</birthdate>
+		<average_score>8.49</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Payne Julie</name>
+		<birthdate>1998-02-24</birthdate>
+		<average_score>8.11</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Macdonald Tiffany</name>
+		<birthdate>2001-02-05</birthdate>
+		<average_score>8.36</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Stanton Megan</name>
+		<birthdate>2005-03-17</birthdate>
+		<average_score>8.88</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Scott Shannon</name>
+		<birthdate>2003-07-06</birthdate>
+		<average_score>8.43</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Rosario Patricia</name>
+		<birthdate>2001-08-11</birthdate>
+		<average_score>8.98</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Blackwell Sheila</name>
+		<birthdate>2004-02-06</birthdate>
+		<average_score>8.22</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Hayes Joshua</name>
+		<birthdate>1999-01-09</birthdate>
+		<average_score>8.87</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Schmidt Mackenzie</name>
+		<birthdate>2004-06-08</birthdate>
+		<average_score>8.43</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Garcia David</name>
+		<birthdate>2004-02-04</birthdate>
+		<average_score>8.54</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Cisneros Michael</name>
+		<birthdate>2001-03-12</birthdate>
+		<average_score>8.01</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Wilson Amy</name>
+		<birthdate>2000-05-05</birthdate>
+		<average_score>8.28</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Bishop Trevor</name>
+		<birthdate>2000-11-09</birthdate>
+		<average_score>8.73</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Kent Kelly</name>
+		<birthdate>1997-08-19</birthdate>
+		<average_score>8.9</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Hodges Richard</name>
+		<birthdate>2003-03-07</birthdate>
+		<average_score>8.34</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Klein Christina</name>
+		<birthdate>2004-11-28</birthdate>
+		<average_score>8.79</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Anderson Christopher</name>
+		<birthdate>1999-11-05</birthdate>
+		<average_score>8.79</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Schroeder Brandon</name>
+		<birthdate>2001-04-04</birthdate>
+		<average_score>8.07</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Reynolds Eric</name>
+		<birthdate>2005-04-03</birthdate>
+		<average_score>8.07</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Trevino Sharon</name>
+		<birthdate>2001-10-01</birthdate>
+		<average_score>8.22</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Smith Christopher</name>
+		<birthdate>2000-03-15</birthdate>
+		<average_score>8.73</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Fisher Joshua</name>
+		<birthdate>1999-11-02</birthdate>
+		<average_score>8.23</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Harris Rebecca</name>
+		<birthdate>2004-10-28</birthdate>
+		<average_score>8.79</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Barnes Richard</name>
+		<birthdate>2002-05-05</birthdate>
+		<average_score>8.68</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Burns Justin</name>
+		<birthdate>2004-04-07</birthdate>
+		<average_score>8.52</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Castillo Karen</name>
+		<birthdate>2001-08-28</birthdate>
+		<average_score>8.08</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Osborne David</name>
+		<birthdate>1998-12-31</birthdate>
+		<average_score>8.36</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Michael Samuel</name>
+		<birthdate>2000-05-14</birthdate>
+		<average_score>8.75</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Gray Grace</name>
+		<birthdate>2004-09-24</birthdate>
+		<average_score>8.28</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Phillips Dawn</name>
+		<birthdate>2001-10-17</birthdate>
+		<average_score>8.44</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Andersen Michael</name>
+		<birthdate>2000-04-23</birthdate>
+		<average_score>8.21</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Washington Sean</name>
+		<birthdate>2004-03-20</birthdate>
+		<average_score>8.23</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Perkins Melissa</name>
+		<birthdate>2004-07-16</birthdate>
+		<average_score>8.64</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Shelton David</name>
+		<birthdate>2004-09-08</birthdate>
+		<average_score>8.5</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Mercado Vincent</name>
+		<birthdate>2003-05-18</birthdate>
+		<average_score>8.37</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Henry Stephen</name>
+		<birthdate>2001-02-08</birthdate>
+		<average_score>8.51</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Stephens Kristin</name>
+		<birthdate>1997-08-17</birthdate>
+		<average_score>8.11</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Mack Tiffany</name>
+		<birthdate>1998-01-18</birthdate>
+		<average_score>8.98</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Burke Erin</name>
+		<birthdate>1999-06-28</birthdate>
+		<average_score>8.07</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Arellano Christine</name>
+		<birthdate>2003-01-26</birthdate>
+		<average_score>8.97</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Roberts Andrew</name>
+		<birthdate>2003-07-30</birthdate>
+		<average_score>8.14</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Jackson Kristie</name>
+		<birthdate>1998-06-07</birthdate>
+		<average_score>8.15</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Garrett Mary</name>
+		<birthdate>1999-11-02</birthdate>
+		<average_score>8.19</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Hooper Brian</name>
+		<birthdate>2001-12-21</birthdate>
+		<average_score>8.32</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Martin Carrie</name>
+		<birthdate>2004-09-06</birthdate>
+		<average_score>8.58</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Simon Catherine</name>
+		<birthdate>2001-05-31</birthdate>
+		<average_score>8.48</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Roach Lisa</name>
+		<birthdate>2003-09-09</birthdate>
+		<average_score>8.76</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Wilkinson Denise</name>
+		<birthdate>2004-02-05</birthdate>
+		<average_score>8.78</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Jackson Michael</name>
+		<birthdate>2003-03-07</birthdate>
+		<average_score>8.8</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Short Bryan</name>
+		<birthdate>2001-08-27</birthdate>
+		<average_score>8.77</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Hall Christine</name>
+		<birthdate>2002-09-13</birthdate>
+		<average_score>8.79</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Perez Vincent</name>
+		<birthdate>2004-02-19</birthdate>
+		<average_score>8.96</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Benitez Elizabeth</name>
+		<birthdate>2000-01-10</birthdate>
+		<average_score>8.95</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Bowers Daniel</name>
+		<birthdate>1998-08-30</birthdate>
+		<average_score>8.22</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Foster Karen</name>
+		<birthdate>2003-04-08</birthdate>
+		<average_score>8.64</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Manning David</name>
+		<birthdate>1997-10-13</birthdate>
+		<average_score>8.26</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Oconnell Jeffrey</name>
+		<birthdate>1998-08-19</birthdate>
+		<average_score>8.7</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Adams Joseph</name>
+		<birthdate>1998-12-14</birthdate>
+		<average_score>8.41</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Cervantes James</name>
+		<birthdate>2002-04-26</birthdate>
+		<average_score>8.96</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Sherman Michelle</name>
+		<birthdate>2001-11-03</birthdate>
+		<average_score>8.25</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Reed Kevin</name>
+		<birthdate>2002-12-28</birthdate>
+		<average_score>8.79</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Obrien Thomas</name>
+		<birthdate>1999-10-19</birthdate>
+		<average_score>8.3</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Diaz Sara</name>
+		<birthdate>2005-06-06</birthdate>
+		<average_score>8.77</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Peters Daniel</name>
+		<birthdate>1998-08-29</birthdate>
+		<average_score>8.26</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Martinez Alexa</name>
+		<birthdate>2001-02-06</birthdate>
+		<average_score>8.73</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Hoffman Alec</name>
+		<birthdate>2005-05-17</birthdate>
+		<average_score>8.83</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Bailey Benjamin</name>
+		<birthdate>2003-05-31</birthdate>
+		<average_score>8.25</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Jenkins Eric</name>
+		<birthdate>2005-03-24</birthdate>
+		<average_score>8.22</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Sampson David</name>
+		<birthdate>1999-07-14</birthdate>
+		<average_score>8.18</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Ashley Shelia</name>
+		<birthdate>2004-09-30</birthdate>
+		<average_score>8.59</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Mason Lynn</name>
+		<birthdate>1997-12-19</birthdate>
+		<average_score>8.56</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Castillo Ashley</name>
+		<birthdate>2001-08-28</birthdate>
+		<average_score>8.24</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Robertson Sabrina</name>
+		<birthdate>2003-05-09</birthdate>
+		<average_score>8.91</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Thomas Diana</name>
+		<birthdate>2004-05-04</birthdate>
+		<average_score>8.18</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Wiley Cassandra</name>
+		<birthdate>2000-02-08</birthdate>
+		<average_score>8.52</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Downs Jesus</name>
+		<birthdate>2002-08-04</birthdate>
+		<average_score>8.2</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Townsend Matthew</name>
+		<birthdate>1998-12-18</birthdate>
+		<average_score>8.12</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Mills Gregory</name>
+		<birthdate>2002-06-06</birthdate>
+		<average_score>8.8</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Johnson Jessica</name>
+		<birthdate>1998-01-07</birthdate>
+		<average_score>8.36</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Mayo John</name>
+		<birthdate>2000-06-26</birthdate>
+		<average_score>8.73</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Hale Daniel</name>
+		<birthdate>2004-12-22</birthdate>
+		<average_score>8.6</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Whitaker Jacob</name>
+		<birthdate>1999-12-23</birthdate>
+		<average_score>8.24</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Gordon Kimberly</name>
+		<birthdate>2000-05-07</birthdate>
+		<average_score>8.41</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Powers Michael</name>
+		<birthdate>2004-02-06</birthdate>
+		<average_score>8.17</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Delgado Janet</name>
+		<birthdate>2004-12-03</birthdate>
+		<average_score>8.26</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Landry Charles</name>
+		<birthdate>2001-04-29</birthdate>
+		<average_score>8.96</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Guzman Angela</name>
+		<birthdate>2003-05-13</birthdate>
+		<average_score>8.73</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Davis Leslie</name>
+		<birthdate>2001-02-20</birthdate>
+		<average_score>8.8</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Huffman Jeffrey</name>
+		<birthdate>1997-09-10</birthdate>
+		<average_score>8.99</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>King Robert</name>
+		<birthdate>1998-12-02</birthdate>
+		<average_score>8.93</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Baker Andrew</name>
+		<birthdate>1998-09-21</birthdate>
+		<average_score>8.53</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Stephens Edward</name>
+		<birthdate>2003-01-25</birthdate>
+		<average_score>8.15</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Cain Anthony</name>
+		<birthdate>2003-05-13</birthdate>
+		<average_score>8.13</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Blake Danielle</name>
+		<birthdate>1999-07-13</birthdate>
+		<average_score>8.16</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Farrell Dustin</name>
+		<birthdate>2003-02-26</birthdate>
+		<average_score>8.79</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Franco Chase</name>
+		<birthdate>2002-01-09</birthdate>
+		<average_score>8.82</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Conley Christy</name>
+		<birthdate>2003-01-05</birthdate>
+		<average_score>8.2</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Moore Kenneth</name>
+		<birthdate>2002-09-20</birthdate>
+		<average_score>8.03</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Beasley Zachary</name>
+		<birthdate>2003-02-15</birthdate>
+		<average_score>8.98</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Reynolds Jessica</name>
+		<birthdate>2002-04-18</birthdate>
+		<average_score>8.54</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>King Samuel</name>
+		<birthdate>2003-01-28</birthdate>
+		<average_score>8.41</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Valdez Brian</name>
+		<birthdate>1997-10-27</birthdate>
+		<average_score>8.13</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Perkins John</name>
+		<birthdate>2001-04-27</birthdate>
+		<average_score>8.41</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Russell Lisa</name>
+		<birthdate>2001-01-25</birthdate>
+		<average_score>8.96</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Whitaker Catherine</name>
+		<birthdate>2002-09-26</birthdate>
+		<average_score>8.17</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Davidson Regina</name>
+		<birthdate>2000-03-29</birthdate>
+		<average_score>8.93</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Zamora Amber</name>
+		<birthdate>2004-05-03</birthdate>
+		<average_score>8.43</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Moran Jennifer</name>
+		<birthdate>2004-12-08</birthdate>
+		<average_score>8.81</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Walker Tonya</name>
+		<birthdate>2002-05-15</birthdate>
+		<average_score>8.77</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Salinas Jeffrey</name>
+		<birthdate>2004-10-22</birthdate>
+		<average_score>8.12</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Ayala Amber</name>
+		<birthdate>2000-12-05</birthdate>
+		<average_score>8.32</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Guzman David</name>
+		<birthdate>2005-02-11</birthdate>
+		<average_score>8.23</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Gutierrez David</name>
+		<birthdate>2003-06-12</birthdate>
+		<average_score>8.8</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Ray Courtney</name>
+		<birthdate>2002-08-14</birthdate>
+		<average_score>8.36</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Day Marcus</name>
+		<birthdate>2000-01-01</birthdate>
+		<average_score>8.12</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Caldwell Crystal</name>
+		<birthdate>2004-05-23</birthdate>
+		<average_score>8.88</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Alvarez Molly</name>
+		<birthdate>1999-04-20</birthdate>
+		<average_score>8.62</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Jones Jordan</name>
+		<birthdate>2004-03-12</birthdate>
+		<average_score>8.39</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Williams Daniel</name>
+		<birthdate>2003-02-09</birthdate>
+		<average_score>8.88</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Graves Regina</name>
+		<birthdate>2004-07-24</birthdate>
+		<average_score>8.1</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Gonzalez Isabella</name>
+		<birthdate>2002-04-27</birthdate>
+		<average_score>8.97</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Hooper Justin</name>
+		<birthdate>2003-01-19</birthdate>
+		<average_score>8.34</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Spears Sarah</name>
+		<birthdate>2003-07-14</birthdate>
+		<average_score>8.91</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Miller Heather</name>
+		<birthdate>1997-11-09</birthdate>
+		<average_score>8.74</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Green Tiffany</name>
+		<birthdate>2001-12-18</birthdate>
+		<average_score>8.37</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Sanders Maureen</name>
+		<birthdate>1998-03-27</birthdate>
+		<average_score>8.44</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Greer Michele</name>
+		<birthdate>1998-11-02</birthdate>
+		<average_score>8.54</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Walters Angelica</name>
+		<birthdate>2004-11-08</birthdate>
+		<average_score>8.82</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Stewart Barbara</name>
+		<birthdate>2000-06-14</birthdate>
+		<average_score>8.32</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Macdonald Jennifer</name>
+		<birthdate>1998-06-03</birthdate>
+		<average_score>8.69</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Hill Christopher</name>
+		<birthdate>2005-02-08</birthdate>
+		<average_score>8.15</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>King Michael</name>
+		<birthdate>2004-10-29</birthdate>
+		<average_score>8.52</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Glover Diane</name>
+		<birthdate>2000-09-18</birthdate>
+		<average_score>8.33</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Baker Scott</name>
+		<birthdate>2002-05-13</birthdate>
+		<average_score>8.63</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Figueroa Jacqueline</name>
+		<birthdate>2002-05-06</birthdate>
+		<average_score>8.2</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Garcia Mary</name>
+		<birthdate>2001-02-20</birthdate>
+		<average_score>8.43</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>White Noah</name>
+		<birthdate>2004-04-20</birthdate>
+		<average_score>8.59</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Wilson Lauren</name>
+		<birthdate>2001-09-14</birthdate>
+		<average_score>8.49</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Gregory Michelle</name>
+		<birthdate>2000-11-25</birthdate>
+		<average_score>8.61</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Howard Mary</name>
+		<birthdate>2004-04-17</birthdate>
+		<average_score>8.28</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>White Douglas</name>
+		<birthdate>2000-05-13</birthdate>
+		<average_score>8.95</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Brown Tammy</name>
+		<birthdate>1998-09-05</birthdate>
+		<average_score>8.2</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Wilkins Austin</name>
+		<birthdate>2003-05-05</birthdate>
+		<average_score>8.39</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Barker Julie</name>
+		<birthdate>2002-05-02</birthdate>
+		<average_score>8.87</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Kelly Nancy</name>
+		<birthdate>1999-01-14</birthdate>
+		<average_score>8.4</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Snyder Carla</name>
+		<birthdate>2004-07-08</birthdate>
+		<average_score>8.58</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Guerrero Charles</name>
+		<birthdate>2002-03-11</birthdate>
+		<average_score>8.18</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Stuart Michael</name>
+		<birthdate>2001-01-09</birthdate>
+		<average_score>8.07</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Wilson Jackson</name>
+		<birthdate>2004-07-13</birthdate>
+		<average_score>8.04</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Arnold Jessica</name>
+		<birthdate>2003-06-03</birthdate>
+		<average_score>8.21</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Edwards Daniel</name>
+		<birthdate>1998-02-12</birthdate>
+		<average_score>8.67</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Pierce Robert</name>
+		<birthdate>1999-04-08</birthdate>
+		<average_score>8.24</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Murphy Jason</name>
+		<birthdate>1998-10-12</birthdate>
+		<average_score>8.9</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Sullivan Elizabeth</name>
+		<birthdate>2003-11-20</birthdate>
+		<average_score>8.19</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Howard Jennifer</name>
+		<birthdate>1999-11-11</birthdate>
+		<average_score>8.61</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Gibson Kelly</name>
+		<birthdate>2003-08-17</birthdate>
+		<average_score>8.98</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Chambers William</name>
+		<birthdate>2004-03-15</birthdate>
+		<average_score>8.05</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Solomon Dylan</name>
+		<birthdate>1999-04-05</birthdate>
+		<average_score>8.03</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Alvarez Charles</name>
+		<birthdate>2004-01-13</birthdate>
+		<average_score>8.13</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Young Monica</name>
+		<birthdate>2004-12-29</birthdate>
+		<average_score>8.29</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Carlson Michelle</name>
+		<birthdate>2001-12-24</birthdate>
+		<average_score>8.15</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Obrien Greg</name>
+		<birthdate>1999-07-31</birthdate>
+		<average_score>8.28</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Thomas Thomas</name>
+		<birthdate>1999-07-02</birthdate>
+		<average_score>8.56</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Solomon Gregory</name>
+		<birthdate>2004-10-20</birthdate>
+		<average_score>8.29</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Brewer Jennifer</name>
+		<birthdate>2001-01-27</birthdate>
+		<average_score>8.17</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Johnson Timothy</name>
+		<birthdate>2003-06-10</birthdate>
+		<average_score>8.1</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Adams Wendy</name>
+		<birthdate>2003-06-13</birthdate>
+		<average_score>8.13</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Ortega Juan</name>
+		<birthdate>1999-12-25</birthdate>
+		<average_score>8.91</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Webster Tracy</name>
+		<birthdate>2004-08-28</birthdate>
+		<average_score>8.94</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Casey Caitlin</name>
+		<birthdate>2004-01-20</birthdate>
+		<average_score>8.69</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Montes Regina</name>
+		<birthdate>2004-03-19</birthdate>
+		<average_score>8.34</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Rose Alvin</name>
+		<birthdate>1998-06-27</birthdate>
+		<average_score>8.15</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Fisher John</name>
+		<birthdate>1998-11-15</birthdate>
+		<average_score>8.74</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Day Melissa</name>
+		<birthdate>2003-02-07</birthdate>
+		<average_score>8.95</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Anderson Jill</name>
+		<birthdate>2001-05-19</birthdate>
+		<average_score>8.57</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Watts Janet</name>
+		<birthdate>2003-04-28</birthdate>
+		<average_score>8.46</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Oconnor James</name>
+		<birthdate>2004-04-27</birthdate>
+		<average_score>8.38</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Powell Gregory</name>
+		<birthdate>2005-04-19</birthdate>
+		<average_score>8.53</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Johnson Colton</name>
+		<birthdate>2004-04-05</birthdate>
+		<average_score>8.77</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Hahn Janice</name>
+		<birthdate>1999-08-23</birthdate>
+		<average_score>8.65</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Lee Ann</name>
+		<birthdate>1999-02-27</birthdate>
+		<average_score>8.95</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Bass Gregory</name>
+		<birthdate>2000-01-28</birthdate>
+		<average_score>8.05</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Young Rebecca</name>
+		<birthdate>2002-06-07</birthdate>
+		<average_score>8.71</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Morgan Ronald</name>
+		<birthdate>2005-03-06</birthdate>
+		<average_score>8.54</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Sandoval Ricky</name>
+		<birthdate>2004-04-21</birthdate>
+		<average_score>8.31</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Parker Jeffrey</name>
+		<birthdate>2004-11-28</birthdate>
+		<average_score>8.5</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Davis Victoria</name>
+		<birthdate>2003-10-22</birthdate>
+		<average_score>8.72</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Shaw Robert</name>
+		<birthdate>2003-11-09</birthdate>
+		<average_score>8.95</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Smith Randy</name>
+		<birthdate>1998-10-23</birthdate>
+		<average_score>8.95</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Haynes Richard</name>
+		<birthdate>2003-02-22</birthdate>
+		<average_score>8.37</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Orozco Michael</name>
+		<birthdate>2002-03-21</birthdate>
+		<average_score>8.14</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Phillips Terri</name>
+		<birthdate>2005-05-26</birthdate>
+		<average_score>8.46</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Hughes Daniel</name>
+		<birthdate>1998-06-01</birthdate>
+		<average_score>8.6</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Smith Kelly</name>
+		<birthdate>1997-10-25</birthdate>
+		<average_score>8.67</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Kelly Ebony</name>
+		<birthdate>2000-11-22</birthdate>
+		<average_score>8.68</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Figueroa Kimberly</name>
+		<birthdate>2001-12-14</birthdate>
+		<average_score>8.61</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Chambers James</name>
+		<birthdate>1998-09-25</birthdate>
+		<average_score>8.04</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Sullivan Robert</name>
+		<birthdate>1999-10-10</birthdate>
+		<average_score>8.12</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Ibarra Deanna</name>
+		<birthdate>2002-05-12</birthdate>
+		<average_score>8.69</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Williams William</name>
+		<birthdate>2004-12-28</birthdate>
+		<average_score>8.32</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Hernandez Luis</name>
+		<birthdate>2003-07-25</birthdate>
+		<average_score>8.77</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Thompson Deborah</name>
+		<birthdate>2004-03-02</birthdate>
+		<average_score>8.24</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Webb Colleen</name>
+		<birthdate>1999-10-12</birthdate>
+		<average_score>8.16</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Riggs Mary</name>
+		<birthdate>2001-04-08</birthdate>
+		<average_score>8.53</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Burns Jonathan</name>
+		<birthdate>1997-11-29</birthdate>
+		<average_score>8.59</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Atkins Christopher</name>
+		<birthdate>2001-05-30</birthdate>
+		<average_score>8.77</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Hayes Andrew</name>
+		<birthdate>2003-09-24</birthdate>
+		<average_score>8.07</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Mcdonald Charles</name>
+		<birthdate>2002-02-01</birthdate>
+		<average_score>8.63</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Gonzales Earl</name>
+		<birthdate>2000-09-22</birthdate>
+		<average_score>8.66</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Smith Steven</name>
+		<birthdate>2001-07-03</birthdate>
+		<average_score>8.47</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Reid Tiffany</name>
+		<birthdate>2003-06-19</birthdate>
+		<average_score>8.63</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Romero Anthony</name>
+		<birthdate>2001-03-29</birthdate>
+		<average_score>8.43</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Leonard Thomas</name>
+		<birthdate>2003-03-21</birthdate>
+		<average_score>8.45</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Young Gregory</name>
+		<birthdate>2004-08-07</birthdate>
+		<average_score>8.49</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+	<student>
+		<name>Mays Brian</name>
+		<birthdate>1999-08-13</birthdate>
+		<average_score>8.04</average_score>
+		<grade>Giỏi</grade>
+		<result>Hoàn thành</result>
+	</student>
+</root>
